@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serifturgut
 - 👀 I’m interested in data analyst
-- 🌱 I’m currently learning in Power BI and for the last six months I have learned EXCEL, SQL  and PYTHON
+- 🌱 I have learned EXCEL, SQL, PYTHON and PowerBI
 - 💞️ I’m looking to collaborate on coding on SQL and visualization on Power BI
 - 📫 How to reach me e-mail: serifturgutde@gmail.com
                       Linkedin www.linkedin.com/in/şerif-can-turgut
